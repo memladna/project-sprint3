@@ -1,22 +1,10 @@
 @import url(../fonts/fonts.css);
 @import url(./header/header.css);
+@import url(./lead/lead.css);
 
 .page {
     margin: 0;
     background: #2A2C2F;
     color: #ffffff;
     font-family: Inter;
-    padding: 28px 48px 24px;
-}
-
-@media screen and (max-width: 768px) {
-    .page {
-        padding: 28px 24px 24px;
-    }
-}
-
-@media screen and (max-width: 425px) {
-    .page {
-        padding: 16px 16px 24px;
-    }
 }
