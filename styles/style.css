@@ -2,6 +2,7 @@
 @import url(./header/header.css);
 @import url(./lead/lead.css);
 @import url(./intro/intro.css);
+@import url(./photo-grid/photo-grid.css);
 
 .page {
     margin: 0;
