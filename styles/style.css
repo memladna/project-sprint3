@@ -1,6 +1,7 @@
 @import url(../fonts/fonts.css);
 @import url(./header/header.css);
 @import url(./lead/lead.css);
+@import url(./intro/intro.css);
 
 .page {
     margin: 0;
