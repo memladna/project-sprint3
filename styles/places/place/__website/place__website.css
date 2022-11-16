@@ -1,0 +1,14 @@
+@import url(./__url-heading/place__url-heading.css);
+@import url(./__link/place__link.css);
+
+.place__website {
+    align-self: end;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+@media screen and (max-width: 425px) {
+    .place__website {
+        margin: 0 16px 32px;
+    }
+}
