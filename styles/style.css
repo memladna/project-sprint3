@@ -4,6 +4,7 @@
 @import url(./intro/intro.css);
 @import url(./photo-grid/photo-grid.css);
 @import url(./places/places.css);
+@import url(./cover/cover.css);
 
 .page {
     margin: 0;
