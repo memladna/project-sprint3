@@ -28,9 +28,11 @@
     }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 620px) {
     .place {
-        display: block;
-        margin: 0 0 50px;
+        grid-template-columns: auto;
+        grid-auto-rows: auto;
+        gap: 32px;
+        margin: 0 0 32px;
     }
 }
